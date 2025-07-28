@@ -75,7 +75,7 @@ const BookMyShowClone = () => {
 
   return (
     <div className="p-6 max-w-3xl mx-auto space-y-6">
-      <h2 className="text-2xl font-bold text-center">BookMyShow Clone</h2>
+      <h2 className="text-2xl font-bold text-center">BookMyShow </h2>
       <div className="grid grid-cols-6 gap-3">
         {seatsArray.map((seat) => (
           <div
